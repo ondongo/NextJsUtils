@@ -3,7 +3,7 @@ import { AvatarComponent } from 'avatar-initials';
 import React from 'react';
 
 function page() {
-  const userName = 'Javier Dormoy';
+  const userName = 'Gloire ODG';
 
   const initials = userName
     .split(' ')
